@@ -1,4 +1,5 @@
 import React from "react";
+import App from "../App";
 
 class PokemonCard extends React.Component {
 	constructor(){
@@ -35,3 +36,5 @@ class PokemonCard extends React.Component {
 	}
 
 }
+
+export default PokemonCard;
